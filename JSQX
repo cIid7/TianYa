@@ -7,8 +7,8 @@
 
   var DEFAULT_CONFIG = {
     enabled: true,
-    latitude: 34.554046,
-    longitude: 113.861724,
+    latitude: 34.559571,
+    longitude: 113.865547,
     horizontalAccuracy: 10,
     verticalAccuracy: 1000,
     altitude: 131,
